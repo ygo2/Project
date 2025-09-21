@@ -4,8 +4,6 @@ Ben Li
 Fraol Maru
 Yaw Owusu Sekyere
 
+We are developing an interactive application to strengthen the connections between newcomers to a place or community, who could benefit from specific knowledge, and the people who can share that knowledge. Specifically, we will start with students on Calvin’s campus, where communities include specific dorms, KE apartment buildings, and maybe classes and student organizations. The app allows students within respective communities to collaborate and offer support for communities and share meaningful knowledge about campus life and beyond Calvin, by way of a Q+A forum app.
 
-
-It is an app that simply gives a platform that allows everyone to post something interesting or things which want let others to know to a public channel. Basically, its emphasize on different spots!
-
-Furthermore, we can expand the place to each member's hometown and country. Each member of the team can share something about their own countries, which can form the foundation of the app. For other travelers or someone who are planning to travel, they can use this app to search for any places they like for some native recommendation or some travelers' evaluations.
+This app will stand out from other help forums by being locally subdivided and built for mobile. We intend to explore the best way of organizing more social and less technical information while providing three key features: posting information, asking questions, and searching previous posts. (We want to develop an app that utilizes Calvin University’s rich culture in developing an inclusive space, regardless of background on Calvin University campus.) Ultimately, our project aims to enhance belonging on campus and strengthen relationships across the locations we serve.
