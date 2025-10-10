@@ -11,3 +11,5 @@ This app will stand out from competitors such as Reddit, Discord, and Slack by b
 - The codebases for your client and for our server are separate repos in the E Team organization:
    - [Mobile Client](https://github.com/calvin-cs262-fall2025-teamE/Client)
    - [Data Service](https://github.com/calvin-cs262-fall2025-teamE/Service)  
+
+[Primary UI Model](https://claude.ai/public/artifacts/35fd00eb-d95c-4ab9-92c3-04f01cc98b15)
